@@ -13,7 +13,6 @@ The main goal is to create an automated solution to identify vulnerabilities and
 
 ## Technologies Used
 - **Nmap**: Network scanning
-- **OpenVAS**: Vulnerability scanning
 - **Wireshark**: Packet analysis
 - **Python**: Scripting and automation
 - **Gnuplot/Matplotlib**: Data visualization
